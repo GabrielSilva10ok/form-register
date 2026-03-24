@@ -1,0 +1,2 @@
+Fiz este projeto com a intenção de melhorar meu aprendizado sobre HTML5 e CSS3.
+Este projeto foi criado por mim Gabriel Silva Ribeiro. 
